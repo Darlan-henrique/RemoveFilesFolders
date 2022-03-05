@@ -16,7 +16,6 @@
     Opção 2: Deletar pastas com + de 30 dias
     Opção 3: Sair
 
-
 ![image](https://user-images.githubusercontent.com/71336454/156896998-b8cc6e41-8a4f-4c41-a3e6-f8ae3ed8fc35.png)
 
 ## 🚀 Tecnologias utilizadas
